@@ -1,0 +1,7 @@
+DEBUG: starting harmlessprogram
+DEBUG: root created
+DEBUG: root withdrawn
+DEBUG: text font set
+DEBUG: title font set
+DEBUG: before start
+DEBUG: entering start()
